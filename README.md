@@ -6,3 +6,5 @@ Once the build was completed, we then set our sights on making a small game with
 With many limitations, we were able to successfully make a 2 lane Pong game on our small LCD display, which included a "ball", 2 paddles being controlled by 2 people with a button, and a score counter, which ended the game after a couple of points were scored. 
 
 Overall, this was an interesting introduction to computer hardware and programming in assembly, and my group and I had a lot of fun building the computer and programming it in cool and interesting ways
+
+The showcase can be seen at https://youtu.be/Lo0_toJ5TV4
